@@ -21,10 +21,9 @@ function buildApp() {
     'http://localhost:5173',
     'http://localhost:5174',
     'http://localhost:5175',
-    'https://advestor-frontend-wlaf1c02c-abhisheks-projects-680a2fd9.vercel.app',
-    'https://advestor-frontend.vercel.app',
-      'https://patil-project.vercel.app',
-    'https://advestor-frontend.vercel.app'
+    'https://rmr-frontend-iota.vercel.app',
+    'https://rmr-frontend-git-main-abhisheks-projects-680a2fd9.vercel.app',
+    'https://rmr-frontend-lbd3yx7te-abhisheks-projects-680a2fd9.vercel.app'
   ].filter(Boolean); 
 
   // Register fastify-cors
